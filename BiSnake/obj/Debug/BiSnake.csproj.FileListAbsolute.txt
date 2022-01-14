@@ -1,0 +1,18 @@
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\bin\Debug\BiSnake.exe.config
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\obj\Debug\BiSnake.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\obj\Debug\BiSnake.Form1.resources
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\obj\Debug\BiSnake.Properties.Resources.resources
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\obj\Debug\BiSnake.csproj.GenerateResource.Cache
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\bin\Debug\BiSnake.exe
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\bin\Debug\BiSnake.pdb
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\obj\Debug\BiSnake.exe
+D:\Bi\Bi Homework\OOP\Snake idea\BiSnake\BiSnake\obj\Debug\BiSnake.pdb
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\bin\Debug\BiSnake.exe.config
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\obj\Debug\BiSnake.exe
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\obj\Debug\BiSnake.pdb
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\bin\Debug\BiSnake.exe
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\bin\Debug\BiSnake.pdb
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\obj\Debug\BiSnake.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\obj\Debug\BiSnake.Form1.resources
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\obj\Debug\BiSnake.Properties.Resources.resources
+D:\Bi\Bi Homework\OOP\BiSnake\BiSnake\obj\Debug\BiSnake.csproj.GenerateResource.Cache
